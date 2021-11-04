@@ -1,6 +1,6 @@
 # Behind The Person
 
-__**This Website was created to fullfil the Technical Assignment during applying to HYF Class34!**__
+__**This Website was created to fulfil the Technical Assignment during applying to HYF Class34!**__
 
 Through my study in the UK, I got to meet a lot of people from different countries.
 One day, over dinner, we were talking about our childhood and it struck me that we had a lot in common; such as Anime shows and street games.
